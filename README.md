@@ -61,7 +61,13 @@ A solução seria desenvenvolver um sistemas de software para acelerar o process
 ![1_xczSEmFBi7bDkASwpH4EbA](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/6fd60ee3-0399-4616-a670-7fbdcedc1e37)
 
 ## Protótipo de alta fidelidade
-[Protótipo Figma](https://www.figma.com/proto/QNrVkP6C9WG4t32zIh9X0l/Prot%C3%B3tipo-Projeto-Integrador?node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
+![tela inicial](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/16eb6f7b-43c7-4b93-be6e-727baa7004cc)
+![menu](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/ea3edd5b-a610-4e0c-bc7d-792eb0af2ed1)
+![notificaçao padrao](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/3ebd2f8a-3920-442a-9698-7ca0704e6286)
+![notificaçao padrao 2](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/75214bb7-9f64-434a-a108-669d9832b758)
+![prototipo3](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/614e2627-9de1-4feb-aaf1-b683e7a32aad)
+![prototipo4](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/bebee227-d04c-47f4-867c-106e6dae6ce8)
+
 
 # Conclusão
 
