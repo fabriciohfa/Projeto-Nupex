@@ -11,14 +11,17 @@ Pensar em um sistema de software que facilite o dia a dia dos funcunários da se
 A secretaria da Univiçosa tem a função de gerenciar os projetos dos pesquisadores, registrando se os projetos de pesquisa foram aceitos pelo comitê ou se necessitam de alguma alteração, além de acompanhar as datas de entrega. Atualmente, os funcionários dessa secretaria realizam esse trabalho de forma manual, utilizando cadernos e planilhas no Excel, o que consome muito tempo que poderia ser empregado em outras atividades.
 Existem meios de facilitar esse trabalho por meio de sistemas de software, permitindo uma redução significativa no tempo gasto.
 # WHEN (Quando)
-
+Quando precisar realizar o trabalho que lhe era fornecido apenas por meio manual .
 # WHO (Quem)
-
+As Secretarias do Nupex.
 # WHERE (Onde)
-
+Na instiruição Univicçosa localizada na cidade Viçosa no estado Minas Gerais
 # WHY (Por que)
 
----
+Quem utilizará o sistema?
+Pode ser utilizado para a maioria das secretarias em várias áreas que realizam trabalhos manuais semelhantes, permitindo o controle de projetos de diversas áreas. 
+Quais seriam os problemas?
+°Preenchimento incorreto de dados nas planilhas do Excel.
 
 # Storytelling
 “Em um dia comum na vida da secretária Paula, a equipe da empresa TECHCODE realizou uma entrevista na qual esse assunto foi abordado por ela. Ela demonstrou o trabalho manual que costumava fazer e destacou que gastava muito tempo do dia, muitas vezes não conseguindo realizar as tarefas devido a outras demandas. Com base no que ela apresentou, pensamos em desenvolver um sistema não apenas para facilitar a vida dela, mas também a de diversas outras secretárias em instituições de ensino em todo o Brasil que enfrentam a mesma situação, por não terem um sistema próprio para isso “
@@ -28,9 +31,13 @@ Existem meios de facilitar esse trabalho por meio de sistemas de software, permi
 ![Persona Fábio](Frame2.png)
 
 # Solução
+A solução seria desenvenvolver um sistemas de software para acelerar o processo deste trabalho que era feito manualemente.
 ## Rabiscoframes
+![1_-pYada-sxrsMLls6SHzc-g](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/e3e1d901-a198-4d81-b674-b2916385877a)
+![1_5xcICqsf66YljMSM5IcyVQ](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/024d3723-babf-4063-87bc-b594067d5f1c)
+![1_xczSEmFBi7bDkASwpH4EbA](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/6fd60ee3-0399-4616-a670-7fbdcedc1e37)
 
 ## Protótipo de alta fidelidade
 
----
+
 # Conclusão
