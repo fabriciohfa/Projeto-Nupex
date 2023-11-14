@@ -20,18 +20,18 @@ Término do Projeto: 15/11/2023
 # WHO (Quem)
 As pessoas envolvidas nesse projeto foram:
 **Equipe de Design e Desenvolvimento:**
-  *Fabricio Henrique de Freitas Albuquerque
-  *Gabriella Moreira Ribeiro
-  *João Victor Veríssimo
-  *Relbert Alecxsander Ribas
-  *Yuri Moreira Silva
+  * Fabricio Henrique de Freitas Albuquerque
+  * Gabriella Moreira Ribeiro
+  * João Victor Veríssimo
+  * Relbert Alecxsander Ribas
+  * Yuri Moreira Silva
 
 **Clientes e Stakeholders:**
-  *NUPEX - Núcleo de Ensino, Pesquisa e Extensão
-  *Flávia Valente - Coordenadora SIMPAC
+  * NUPEX - Núcleo de Ensino, Pesquisa e Extensão
+  * Flávia Valente - Coordenadora SIMPAC
 
 **Coordenadora**
-  *Cristiane Aparecida Lana
+  * Cristiane Aparecida Lana
 # WHERE (Onde)
 Na instituição de ensino Univiçosa localizada na cidade Viçosa no estado Minas Gerais
 # WHY (Por que)
