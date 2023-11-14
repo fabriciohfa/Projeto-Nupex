@@ -11,11 +11,11 @@ Pensar em um sistema de software que facilite o dia a dia dos funcunários da se
 A secretaria da Univiçosa tem a função de gerenciar os projetos dos pesquisadores, registrando se os projetos de pesquisa foram aceitos pelo comitê ou se necessitam de alguma alteração, além de acompanhar as datas de entrega. Atualmente, os funcionários dessa secretaria realizam esse trabalho de forma manual, utilizando cadernos e planilhas no Excel, o que consome muito tempo que poderia ser empregado em outras atividades.
 Existem meios de facilitar esse trabalho por meio de sistemas de software, permitindo uma redução significativa no tempo gasto.
 # WHEN (Quando)
-Quando precisar realizar o trabalho que lhe era fornecido apenas por meio manual .
+Em todo o dia seria possivel ultilizar esse sistema 
 # WHO (Quem)
-As Secretarias do Nupex.
+As Secretarias do Nupex, e támbem secretarias em geral que necessita de uma meio para gerenciar tarefas com datas de entrega.
 # WHERE (Onde)
-Na instiruição Univicçosa localizada na cidade Viçosa no estado Minas Gerais
+Na instituição de ensino Univiçosa localizada na cidade Viçosa no estado Minas Gerais
 # WHY (Por que)
 
 Quem utilizará o sistema?
@@ -41,3 +41,5 @@ A solução seria desenvenvolver um sistemas de software para acelerar o process
 
 
 # Conclusão
+
+Este software tem o potencial de atender aos requisitos identificados na pesquisa, reduzindo significativamente o tempo gasto pela secretaria. Isso permitirá que ela se concentre em outras tarefas diárias, uma vez que o sistema automatizará muitas das tarefas manuais que costumava realizar. Em resumo, o software pode liberar tempo para que a secretaria possa se dedicar a outras atividades que muitas vezes eram negligenciadas, ou que atrasavam o processamento das devoluções para os pesquisadores devido às demais obrigações.
