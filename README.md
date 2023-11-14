@@ -41,7 +41,15 @@ Quais seriam os problemas?
 * Preenchimento incorreto de dados nas planilhas do Excel.
 ---
 # Storytelling
-“Em um dia comum na vida da secretária Paula, a equipe da empresa TECHCODE realizou uma entrevista na qual esse assunto foi abordado por ela. Ela demonstrou o trabalho manual que costumava fazer e destacou que gastava muito tempo do dia, muitas vezes não conseguindo realizar as tarefas devido a outras demandas. Com base no que ela apresentou, pensamos em desenvolver um sistema não apenas para facilitar a vida dela, mas também a de diversas outras secretárias em instituições de ensino em todo o Brasil que enfrentam a mesma situação, por não terem um sistema próprio para isso “
+“Em um dia comum na vida da secretária Paula, a equipe da empresa TECHCODE teve o privilégio de conduzir uma entrevista reveladora, destacando os desafios enfrentados por ela no desempenho de suas funções diárias. Paula compartilhou de maneira aberta e sincera como as atividades manuais relacionadas à gestão de projetos consumiam uma parte considerável do seu tempo, muitas vezes prejudicando a conclusão eficiente de suas tarefas diárias.
+
+Ao realizar uma demonstração prática do processo, Paula evidenciou a sobrecarga de trabalho gerada pela necessidade de registrar e acompanhar manualmente os projetos dos pesquisadores, utilizando cadernos e planilhas no Excel. Essa abordagem manual, além de ser propensa a erros, limitava significativamente a capacidade da secretária de atender a outras demandas importantes.
+
+Observando o cenário desafiador que Paula enfrentava diariamente, a equipe da TECHCODE ficou inspirada a criar uma solução inovadora que não apenas facilitasse a vida dela, mas também pudesse ser estendida para ajudar diversas outras secretárias em instituições de ensino em todo o Brasil. A visão era desenvolver um sistema abrangente que não apenas automatizasse as tarefas administrativas, mas também fornecesse uma solução padronizada e eficiente para uma gestão de projetos mais inteligente.
+
+A equipe, motivada por esse desafio, começou a delinear os requisitos, funcionalidades e aspectos de interface do sistema, levando em consideração as particularidades mencionadas por Paula. O objetivo era criar uma solução tecnológica que não apenas economizasse tempo e reduzisse erros, mas também capacitasse as secretárias a concentrarem seus esforços em atividades mais estratégicas e de maior valor agregado.
+
+Dessa maneira, a TECHCODE embarcou em um projeto que transcendia a automação de processos, buscando proporcionar uma transformação significativa na gestão de projetos em instituições de ensino. A história de Paula serviu como inspiração e motivação para desenvolver uma solução que não apenas facilitaria a vida dela, mas também teria um impacto positivo nas operações de secretarias por todo o país, contribuindo para a eficiência e inovação no ambiente educacional brasileiro. “
 ## WHO
 
 # MAPA DE EMPATIA
