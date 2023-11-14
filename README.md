@@ -32,6 +32,7 @@ As pessoas envolvidas nesse projeto foram:
   * Cristiane Aparecida Lana
 # WHERE (Onde)
 Na instituição de ensino Univiçosa localizada na cidade Viçosa no estado Minas Gerais
+
 # WHY (Por que)
 
 Quem utilizará o sistema?
@@ -42,6 +43,10 @@ Quais seriam os problemas?
 # Storytelling
 “Em um dia comum na vida da secretária Paula, a equipe da empresa TECHCODE realizou uma entrevista na qual esse assunto foi abordado por ela. Ela demonstrou o trabalho manual que costumava fazer e destacou que gastava muito tempo do dia, muitas vezes não conseguindo realizar as tarefas devido a outras demandas. Com base no que ela apresentou, pensamos em desenvolver um sistema não apenas para facilitar a vida dela, mas também a de diversas outras secretárias em instituições de ensino em todo o Brasil que enfrentam a mesma situação, por não terem um sistema próprio para isso “
 ## WHO
+
+# MAPA DE EMPATIA
+![empatia](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/93b0b085-f1e9-435b-aff0-4ed180c2a836)
+
 ### Personas
 ![Persona Paula](Frame1.png)
 ![Persona Fábio](Frame2.png)
