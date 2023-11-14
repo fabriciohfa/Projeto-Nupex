@@ -22,3 +22,5 @@ Sistema de automação dos trabalhos do NUPEX do Projeto Integrador
 
 ## WHO
 ### Personas
+![Persona Paula](Frame1.png)
+![Persona Fábio](Frame2.png)
