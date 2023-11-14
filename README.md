@@ -31,7 +31,7 @@ As pessoas envolvidas nesse projeto foram:
 **Coordenadora**
   * Cristiane Aparecida Lana
 # WHERE (Onde)
-Na instituição de ensino Univiçosa localizada na cidade Viçosa no estado Minas Gerais
+Instituição de ensino Univiçosa localizada na cidade Viçosa no estado Minas Gerais
 
 # WHY (Por que)
 
