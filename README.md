@@ -52,7 +52,9 @@ Foi nesse instante que Paula teve a ideia de contatar a equipe TechCode,especial
 
 A equipe, composta por especialistas em Design de Interação, UI e UX, recebeu entusiasticamente o desafio apresentado por Paula. Juntos, começaram a desenvolver um sistema personalizado que atendesse às necessidades específicas da secretária. O design encantado e a funcionalidade intuitiva eram prioridades, garantindo que a magia tecnológica se alinhasse perfeitamente à realidade acadêmica de Paula. No dia do lançamento, Paula sentiu a magia tomando conta do escritório. O assistente virtual começou a notificar os pesquisadores automaticamente, guiando-os com gentileza e motivação. O design encantado tornava cada interação uma experiência agradável, e os pesquisadores respondiam com entusiasmo, entregando suas obras no prazo.
 
-O escritório universitário transformou-se em um lugar onde a tecnologia e a magia se entrelaçavam para criar um ambiente mais eficiente e inspirador. Paula, com um sorriso de satisfação, continuou seu trabalho, sabendo que, às vezes, a solução para os desafios mais complexos pode ser encontrada na combinação perfeita de imaginação, tecnologia e uma equipe talentosa. E assim, a história de Paula e sua jornada no mundo acadêmico se tornou um exemplo inspirador para todos que a ouviam."
+O projeto da TECHCODE começou a se moldar em resposta direta aos desafios específicos enfrentados por Paula. A equipe concentrou seus esforços em criar um sistema que automatizasse as notificações, economizando um tempo valioso para Paula se concentrar em tarefas mais estratégicas e menos operacionais.
+
+A história de Paula, agora repleta de desafios e superações, serve como uma poderosa narrativa sobre como a tecnologia pode fazer a diferença na vida de profissionais sobrecarregados. O comprometimento da TECHCODE em proporcionar uma transformação positiva na gestão de projetos não apenas aliviou a dor de cabeça de Paula, mas também abriu caminho para uma abordagem mais eficiente e inovadora no ambiente educacional brasileiro.
 ## WHO
 
 # Mapa de empatia
