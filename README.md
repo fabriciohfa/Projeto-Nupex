@@ -52,10 +52,10 @@ A equipe, motivada por esse desafio, começou a delinear os requisitos, funciona
 Dessa maneira, a TECHCODE embarcou em um projeto que transcendia a automação de processos, buscando proporcionar uma transformação significativa na gestão de projetos em instituições de ensino. A história de Paula serviu como inspiração e motivação para desenvolver uma solução que não apenas facilitaria a vida dela, mas também teria um impacto positivo nas operações de secretarias por todo o país, contribuindo para a eficiência e inovação no ambiente educacional brasileiro. “
 ## WHO
 
-# MAPA DE EMPATIA
+# Mapa de empatia
 ![empatia](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/93b0b085-f1e9-435b-aff0-4ed180c2a836)
 
-### Personas
+## Personas
 ![Persona Paula](Frame1.png)
 ![Persona Fábio](Frame2.png)
 
