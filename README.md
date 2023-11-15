@@ -76,7 +76,7 @@ A solução seria desenvenvolver um sistemas de software para acelerar o process
 ![1_xczSEmFBi7bDkASwpH4EbA](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/6fd60ee3-0399-4616-a670-7fbdcedc1e37)
 
 ## Protótipo de alta fidelidade
-![login](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/f4bf4313-6a6e-4145-8734-24fb501a5a56)
+![login](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/8175b1be-8363-413b-aca5-ca25abb79fb8)
 ![tela inicial](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/16eb6f7b-43c7-4b93-be6e-727baa7004cc)
 ![menu](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/ea3edd5b-a610-4e0c-bc7d-792eb0af2ed1)
 ![notificaçao padrao](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/3ebd2f8a-3920-442a-9698-7ca0704e6286)
