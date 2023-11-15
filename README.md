@@ -56,13 +56,15 @@ O projeto da TECHCODE começou a se moldar em resposta direta aos desafios espec
 
 A história de Paula, agora repleta de desafios e superações, serve como uma poderosa narrativa sobre como a tecnologia pode fazer a diferença na vida de profissionais sobrecarregados. O comprometimento da TECHCODE em proporcionar uma transformação positiva na gestão de projetos não apenas aliviou a dor de cabeça de Paula, mas também abriu caminho para uma abordagem mais eficiente e inovadora no ambiente educacional brasileiro.
 
-### Mapa de empatia
-![empatia](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/93b0b085-f1e9-435b-aff0-4ed180c2a836)
 ## WHO
 Baseando-se no Storytelling, foram criadas duas personas parar representar os stakeholder da empresa TechCode
 ### Personas
 ![Persona Paula](Frame1.png)
 ![Persona Fábio](Frame2.png)
+
+### Mapa de empatia
+Com base nas personas delineadas, foi elaborado um mapa de empatia abrangente e detalhado.
+![empatia](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/93b0b085-f1e9-435b-aff0-4ed180c2a836)
 
 # O desafio
 Pensar em um sistema de software que facilite o dia a dia dos funcionários da secretaria do NUPEX da Univiçosa no serviço feito manualmente, acelerando o processo do Centro Universitario de Viçosa-UNIVIÇOSA
