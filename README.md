@@ -71,8 +71,11 @@ Pensar em um sistema de software que facilite o dia a dia dos funcionários da s
 # Solução
 A solução seria desenvenvolver um sistemas de software para acelerar o processo deste trabalho que era feito manualemente.
 ## Rabiscoframes
-![1_-pYada-sxrsMLls6SHzc-g](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/e3e1d901-a198-4d81-b674-b2916385877a)
-![1_5xcICqsf66YljMSM5IcyVQ](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/024d3723-babf-4063-87bc-b594067d5f1c)
+![1_xczSEmFBi7bDkASwpH4EbA](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/53812f54-6077-4884-8e6d-a5e57988473a)
+![1_-pYada-sxrsMLls6SHzc-g](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/026ff72c-4f82-418a-92f0-5a79ce45b8b4)
+![1_5xcICqsf66YljMSM5IcyVQ](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/60fd2ede-1522-4b4c-80d8-8fd15b82db51)
+
+
 ![1_xczSEmFBi7bDkASwpH4EbA](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/6fd60ee3-0399-4616-a670-7fbdcedc1e37)
 
 ## Protótipo de alta fidelidade
