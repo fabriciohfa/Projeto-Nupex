@@ -7,8 +7,8 @@ Exploraremos como a implementação desses conceitos de design não apenas visa 
 A secretaria da Univiçosa tem a função de gerenciar os projetos dos pesquisadores, registrando se os projetos de pesquisa foram aceitos pelo comitê ou se necessitam de alguma alteração, além de acompanhar as datas de entrega. Atualmente, os funcionários dessa secretaria realizam esse trabalho de forma manual, utilizando cadernos e planilhas no Excel, o que consome muito tempo que poderia ser empregado em outras atividades.
 Existem meios de facilitar esse trabalho por meio de sistemas de software, permitindo uma redução significativa no tempo gasto.
 # WHEN (Quando)
-Início do Projeto:  25/09/2023
-Término do Projeto: 15/11/2023
+* Início do Projeto:  25/09/2023
+* Término do Projeto: 15/11/2023
 
 **Fases do projeto:**
 1. Pequisa e descoberta:
