@@ -77,14 +77,12 @@ A solução seria desenvenvolver um sistemas de software para acelerar o process
 
 ## Protótipo de alta fidelidade
 ![login](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/8175b1be-8363-413b-aca5-ca25abb79fb8)
-![tela inicial](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/16eb6f7b-43c7-4b93-be6e-727baa7004cc)
-![menu](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/ea3edd5b-a610-4e0c-bc7d-792eb0af2ed1)
-![notificaçao padrao](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/3ebd2f8a-3920-442a-9698-7ca0704e6286)
-![notificaçao padrao 2](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/75214bb7-9f64-434a-a108-669d9832b758)
-![prototipo3](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/614e2627-9de1-4feb-aaf1-b683e7a32aad)
-![prototipo4](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/bebee227-d04c-47f4-867c-106e6dae6ce8)
-
-
+![tela inicial](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/4cdff6df-fb6a-4ec6-bba0-3d392a55d185)
+![menu](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/f5211dae-8678-4884-a83d-1406ecdaa768)
+![notificaçao padrao](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/b4aeb626-0a7a-4c7d-868f-c770d76412ba)
+![notificaçao padrao 2](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/85931ad6-ada5-4a24-8361-d9b7ae59cd33)
+![prototipo3](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/624963e7-9dc8-4267-a252-789a914e4345)
+![prototipo4](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/b1960ef8-064f-45cb-b39c-4b645285676e)
 # Conclusão
 
 Este software tem o potencial de atender aos requisitos identificados na pesquisa, reduzindo significativamente o tempo gasto pela secretaria. Isso permitirá que ela se concentre em outras tarefas diárias, uma vez que o sistema automatizará muitas das tarefas manuais que costumava realizar. Em resumo, o software pode liberar tempo para que a secretaria possa se dedicar a outras atividades que muitas vezes eram negligenciadas, ou que atrasavam o processamento das devoluções para os pesquisadores devido às demais obrigações.
