@@ -17,6 +17,7 @@ Existem meios de facilitar esse trabalho por meio de sistemas de software, permi
    
 # WHO (Quem)
 As pessoas envolvidas nesse projeto foram:
+
 **Equipe de Design e Desenvolvimento:**
   * Fabricio Henrique de Freitas Albuquerque
   * Gabriella Moreira Ribeiro
