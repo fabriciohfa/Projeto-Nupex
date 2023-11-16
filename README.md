@@ -36,7 +36,7 @@ Baseando-se no Storytelling, foram criadas duas personas parar representar os st
 
 ### Mapa de empatia
 Com base nas personas delineadas, foi elaborado um mapa de empatia abrangente e detalhado.
-![empatia](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/93b0b085-f1e9-435b-aff0-4ed180c2a836)
+![Mapa de empatia](mapa.png)
 
 # WHEN (Quando)
 * Início do Projeto:  25/09/2023
