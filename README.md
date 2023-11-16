@@ -32,14 +32,12 @@ As pessoas envolvidas nesse projeto foram:
 **Coordenadora**
   * Cristiane Aparecida Lana
 # WHERE (Onde)
-Instituição de ensino Univiçosa localizada na cidade Viçosa no estado Minas Gerais
+Após análise criteriosa, foi decidido que o sistema será acessado remotamente via web através de navegodores web, pois oferece uma abordagem prática e eficiente para garantir uma experiência consistente, segura e acessível aos usuários em diferentes contextos.
 
 # WHY (Por que)
 
 Quem utilizará o sistema?
 Pode ser utilizado para a maioria das secretarias em várias áreas que realizam trabalhos manuais semelhantes, permitindo o controle de projetos de diversas áreas. 
-Quais seriam os problemas?
-* Preenchimento incorreto de dados nas planilhas do Excel.
 ---
 # Storytelling
 "Num belo dia, enquanto folheava suas anotações em papel, Paula percebeu que havia uma pilha considerável de pesquisadores atrasados para notificar. A tarefa parecia avassaladora, e ela sentiu um peso sobre seus ombros. Perdida em meio a uma miríade de papéis e prazos, Paula começou a se preocupar com a enormidade da situação.
@@ -86,6 +84,8 @@ A solução seria desenvenvolver um sistemas de software para acelerar o process
 ![notificaçao padrao 2](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/85931ad6-ada5-4a24-8361-d9b7ae59cd33)
 ![prototipo3](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/624963e7-9dc8-4267-a252-789a914e4345)
 ![prototipo4](https://github.com/fabriciohfa/Projeto-Nupex/assets/131566467/b1960ef8-064f-45cb-b39c-4b645285676e)
+
+[Protótipo Figma](https://www.figma.com/proto/QNrVkP6C9WG4t32zIh9X0l/Prot%C3%B3tipo-Projeto-Integrador?type=design&node-id=515-455&t=slP3DEgSe2vyZ3fO-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 # Conclusão
 
 Este software tem o potencial de atender aos requisitos identificados na pesquisa, reduzindo significativamente o tempo gasto pela secretaria. Isso permitirá que ela se concentre em outras tarefas diárias, uma vez que o sistema automatizará muitas das tarefas manuais que costumava realizar. Em resumo, o software pode liberar tempo para que a secretaria possa se dedicar a outras atividades que muitas vezes eram negligenciadas, ou que atrasavam o processamento das devoluções para os pesquisadores devido às demais obrigações.
