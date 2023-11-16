@@ -38,30 +38,38 @@ Após análise criteriosa, foi decidido que o sistema será acessado remotamente
 # WHY (Por que)
 A implementação deste sistema é fundamentada em uma série de razões estratégicas e funcionais, visando aprimorar a eficiência, a colaboração e a experiência global no gerenciamento de pesquisas acadêmicas. Abaixo estão os principais motivos que respaldam a adoção deste sistema:
 
-Otimização da Eficiência Operacional:
+**Otimização da Eficiência Operacional:**
 
 Por quê: O sistema oferece uma plataforma centralizada e integrada, permitindo aos secretários acadêmicos gerenciar dados, prazos e notificações de forma eficiente. Isso resulta em uma redução significativa no tempo dedicado a tarefas administrativas, liberando recursos para focar em atividades mais estratégicas.
-Aprimoramento da Colaboração:
+
+**Aprimoramento da Colaboração:**
 
 Por quê: A implementação do sistema promove uma comunicação mais eficaz entre secretários acadêmicos, pesquisadores e coordenadores de pesquisa. Facilita a troca de informações, feedbacks e atualizações em tempo real, fortalecendo a colaboração e a sinergia na comunidade acadêmica.
-Facilidade de Acesso e Usabilidade:
+
+**Facilidade de Acesso e Usabilidade:**
 
 Por quê: A natureza baseada na web do sistema proporciona acessibilidade global, permitindo que usuários acessem a plataforma de qualquer lugar, a qualquer momento. Sua interface intuitiva e amigável facilita a adoção e o uso efetivo, independentemente do nível de familiaridade com tecnologia.
-Transparência e Acompanhamento:
+
+**Transparência e Acompanhamento:**
 
 Por quê: O sistema oferece transparência no processo de submissão de pesquisas, prazos e feedbacks. Isso permite que pesquisadores e coordenadores de pesquisa acompanhem o progresso de projetos de forma clara e eficaz, resultando em uma gestão mais informada e eficiente.
-Atualizações Contínuas e Manutenção Simplificada:
+
+**Atualizações Contínuas e Manutenção Simplificada:**
 
 Por quê: A escolha de um sistema baseado na web permite atualizações automáticas e manutenção simplificada. Os administradores de sistema podem implementar melhorias e correções de forma eficiente, garantindo que o sistema esteja sempre atualizado e operando em sua capacidade máxima.
-Segurança de Dados e Controle de Acesso:
+
+**Segurança de Dados e Controle de Acesso:**
 
 Por quê: A implementação do sistema promove a segurança de dados, com a utilização de protocolos modernos de criptografia e práticas de segurança. O controle de acesso é centralizado, permitindo que administradores definam permissões de forma granular, garantindo a confidencialidade e a integridade dos dados.
-Promoção de Inovação Tecnológica:
+
+**Promoção de Inovação Tecnológica:**
 
 Por quê: O sistema, desenvolvido pela equipe TechCode, representa um compromisso com a inovação tecnológica. Sua arquitetura moderna e atualizações frequentes garantem que a universidade esteja na vanguarda da tecnologia, proporcionando uma experiência acadêmica contemporânea e eficiente.
+
 A implementação deste sistema não apenas atende às demandas operacionais da universidade, mas também representa um investimento estratégico no aprimoramento da experiência acadêmica, promovendo eficiência, colaboração e inovação contínua.
 
 **Quem usára o sistema** 
+
 O sistema foi desenvolvido para atender a usuários gerenciadores de submissão de artigos acadêmicos, que desempenham papéis específicos no contexto da universidade e do ambiente acadêmico.
 
 ---
