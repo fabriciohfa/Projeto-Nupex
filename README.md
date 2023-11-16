@@ -37,6 +37,7 @@ Baseando-se no Storytelling, foram criadas duas personas parar representar os st
 ### Mapa de empatia
 Com base nas personas delineadas, foi elaborado um mapa de empatia abrangente e detalhado.
 ![Mapa de empatia](mapa.png)
+![Persona Fábio](Frame2.png)
 
 # WHEN (Quando)
 * Início do Projeto:  25/09/2023
