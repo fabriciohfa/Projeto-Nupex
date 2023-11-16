@@ -1,12 +1,18 @@
 # Estudo de caso de Design de Interação e desenvolvimento de interface - Projeto NUPEX
+
 # WHAT (O que)
+
 ## Introdução
 Este estudo de caso destaca a introdução de um sistema de automatização dos trabalhos de secretaria no Núcleo de Pesquisa e Extensão (NUPEX) da Univiçosa, concentrando-se na aplicação dos princípios de Design de Interação. Diante da crescente necessidade de otimizar as operações administrativas, o objetivo é ir além da simples automatização, priorizando a criação de uma experiência de usuário que simplifique as tarefas diárias e promova uma interação mais eficiente.
 Exploraremos como a implementação desses conceitos de design não apenas visa eliminar obstáculos burocráticos, mas também busca estabelecer uma interface intuitiva e acessível. Este estudo prático examinará como o Design de Interação pode redefinir a relação entre os colaboradores do NUPEX e o sistema, contribuindo para uma gestão mais fluida e transparente das informações.
+
 ## Contexto
+
 A secretaria da Univiçosa tem a função de gerenciar os projetos dos pesquisadores, registrando se os projetos de pesquisa foram aceitos pelo comitê ou se necessitam de alguma alteração, além de acompanhar as datas de entrega. Atualmente, os funcionários dessa secretaria realizam esse trabalho de forma manual, utilizando cadernos e planilhas no Excel, o que consome muito tempo que poderia ser empregado em outras atividades.
 Existem meios de facilitar esse trabalho por meio de sistemas de software, permitindo uma redução significativa no tempo gasto.
+
 ---
+
 # Storytelling
 "Num belo dia, enquanto folheava suas anotações em papel, Paula percebeu que havia uma pilha considerável de pesquisadores atrasados para notificar. A tarefa parecia avassaladora, e ela sentiu um peso sobre seus ombros. Perdida em meio a uma miríade de papéis e prazos, Paula começou a se preocupar com a enormidade da situação.
 
